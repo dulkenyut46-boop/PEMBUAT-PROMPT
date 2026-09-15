@@ -1,0 +1,6 @@
+{
+  "name": "PEMBUAT WEB PROMPT",
+  "description": "Aplikasi generator prompt web lengkap, modern, dan cepat untuk kebutuhan arsitektur sistem, UI/UX, dan pengembangan aplikasi web di Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
